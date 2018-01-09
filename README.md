@@ -1,8 +1,7 @@
 # Simulator 2 - Montealban
 
-SimMontealban - Simulador -2- para Visualizacion Arquitectonica Mx
+SimMontealban - Simulador -2- for Visualizacion Arquitectonica Mx (para Visualizacion Arquitectonica Mx)
 
-SimMontealban - Simulador -2- for Visualizacion Arquitectonica Mx
 Single webpage that presents a building which can be click on presenting the details of the selected floor.
 
 ### Details
