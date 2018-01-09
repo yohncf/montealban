@@ -6,8 +6,11 @@ Single webpage that presents a building which can be click on presenting the det
 
 ### Details
 Version:	1.03  - 03/12/2016
+
 Based on: 	Tajin Simulator - Version 2.3.5 - 31/08/2016
+
 Developer: 	yohncf
+
 Languages: 	HTML5 - CSS3 - JScript - JQuery(lib)
 
 ### LOG:
